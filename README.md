@@ -5,7 +5,7 @@
 
 ### `Features`
 - Authentication via Google Sign
-- Multiple users can sign in and be a part of the grouo chat
+- Multiple users can sign in and be a part of the group chat
 - Uses React Js for front-end 
 - Uses Firebase for database
 

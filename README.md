@@ -1,13 +1,13 @@
 
 ### `SuperChat`
-- A full stack Group Chat web application
+- A full stack Group Chat web application.
 - Open https://superchat-a8ee2.web.app/ to view it in your browser.
 
 ### `Features`
-- Authentication via Google Sign
-- Multiple users can sign in and be a part of the group chat
-- Uses React Js for front-end 
-- Uses Firebase for database
+- Authentication via `Google Sign`.
+- Multiple users can sign in and be a part of the group chat.
+- Uses `React Js` for front-end. 
+- Uses `Firebase` for database.
 
 ### `Screenshots`
 

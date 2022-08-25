@@ -12,12 +12,14 @@
 ### `Screenshots`
 
  ####                       SIGN IN PAGE          
-![Screenshot (22)](https://user-images.githubusercontent.com/55885901/179423257-37988e05-fb2b-4ccf-b6a5-1a325c745eff.png)
+![Screenshot (48)](https://user-images.githubusercontent.com/55885901/186680243-b5407811-4a64-47cc-8e6c-e4cc1e2f1b66.png)
+
+
 
 
   ####                     CHAT INTERFACE 
+![Screenshot (49)](https://user-images.githubusercontent.com/55885901/186680272-8338903c-0177-40ce-803e-fe92fcb6b7e2.png)
 
-![Screenshot (21)](https://user-images.githubusercontent.com/55885901/179423260-7b51207a-8821-4d62-8995-8346287fa8b1.png)
 
 
 
